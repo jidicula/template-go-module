@@ -1,3 +1,3 @@
-module template-go-library
+module github.com/jidicula/template-go-module
 
 go 1.16
