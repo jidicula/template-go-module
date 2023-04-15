@@ -2,6 +2,6 @@ package templategomod
 
 import "fmt"
 
-func main() {
+func Foo() {
 	fmt.Println("Hello, world!")
 }
