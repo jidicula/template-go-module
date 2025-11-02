@@ -1,7 +1,5 @@
 package templategomod
 
-import "fmt"
-
-func Foo() {
-	fmt.Println("Hello, world!")
+func Foo() string {
+	return "Hello, world!"
 }
