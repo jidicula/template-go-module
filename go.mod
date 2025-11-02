@@ -1,3 +1,3 @@
 module github.com/jidicula/template-go-module
 
-go 1.20
+go 1.25
